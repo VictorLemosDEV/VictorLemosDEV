@@ -2,7 +2,7 @@
 
 Aqui coloco meus projetos pessoais e repositórios que possam ser úteis.
 
-### [Meu Portifólio](https://victorlemosdev.github.io/Portifolio.github.io/#)
+### [Meu Portifólio](hertz-portifolio.netlify.app)
 
 <!--
 **VictorLemosDEV/VictorLemosDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
