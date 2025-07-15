@@ -21,6 +21,3 @@
 
 Apaixonado por tecnologia, ciência e mudar a vida das pessoas através da programação. 👾
 
-## Melhores Repositórios
-
-[![Termo Scrapper](https://github-readme-stats.vercel.app/api/pin/?username=VictorLemosDEV&repo=TermoScrapper)](https://github.com/anuraghazra/github-readme-stats)
