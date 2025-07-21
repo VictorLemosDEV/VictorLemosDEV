@@ -39,5 +39,30 @@
   <img src="https://github-profile-trophy.vercel.app?username=VictorLemosDEV&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
+
+## ✨ Sobre Mim
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="120" />
+</div>
+
+<p align="center">
+  <b>Olá! Eu sou o Victor</b> 👋<br/>
+  <i>Transformando ideias em experiências digitais incríveis!</i><br/>
+  <br/>
+  Sou movido por desafios, criatividade e a vontade de aprender algo novo todos os dias.
+</p>
+
+---
+
+- 🎓 <b>Bacharelando em Ciência da Computação</b> & <b>Técnico em Desenvolvimento de Sistemas</b>
+- 💼 <b>Foco em Desenvolvimento Gráfico</b> & <b>Game Design</b>
+- 🚀 <b>Explorador de novas linguagens, frameworks e ferramentas</b>
+- 🎮 <b>Entusiasta de jogos, arte digital e experiências interativas</b>
+- 📚 <b>Atualmente estudando:</b> <span style="color:#00599C"><b>C++</b></span> & <span style="color:#dea584"><b>Rust</b></span>
+- 📫 <b>Contato:</b> <a href="https://www.linkedin.com/in/victor-lemos-78330125b/" target="_blank">LinkedIn</a>
+
+---
+
 
